@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-07T15:15:25.111Z</updated>
+  <updated>2023-01-08T15:51:54.115Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记34</title>
+    <link href="http://example.com/posts/e6b2b6dd.html"/>
+    <id>http://example.com/posts/e6b2b6dd.html</id>
+    <published>2023-01-08T15:37:34.000Z</published>
+    <updated>2023-01-08T15:51:54.115Z</updated>
+    
+    <content type="html"><![CDATA[<p>新的一天</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>zion基本上能用了<br>js复习(方法太多了,有些很模糊)<br>gql(明天开始,这个要边学边写博客)</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>上这个班,基本上没有生活了感觉<br>就是写代码,这段时间就当加深学习吧<br>这样❤<br>全面发展,最重要吧<br>每日歌曲:桃乐茜的来信—i’ll call you.(好久没有更新歌单了,明天加一歌task)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;新的一天&lt;/p&gt;
+&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;zion基本上能用了&lt;br&gt;js复习(方法太多了,有些很模糊)&lt;br&gt;gql(明天开始,这个要边学边写博客)&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记33</title>
     <link href="http://example.com/posts/78d6237e.html"/>
     <id>http://example.com/posts/78d6237e.html</id>
     <published>2023-01-07T15:03:21.000Z</published>
-    <updated>2023-01-07T15:15:25.111Z</updated>
+    <updated>2023-01-07T15:15:48.820Z</updated>
     
     <content type="html"><![CDATA[<p>要学的东西好多啊(时间真的很快)</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>zion组件基本上会用了,在熟悉几天基本上就能上手了<br>就要开始操作数据流了<br>gpl之后(5天)<br>js(10天复习)</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>没有什么生活,尽早拜托打工身份,有自己的资源是很重要的<br>还有些写个人博客必须提上日程,不能再拖了<br>这几年应该会有很多事要做,人际交往也是很重要的<br>每日歌曲:失恋阵线联盟 —-草蜢</p>]]></content>
     
@@ -415,26 +436,6 @@
       
     <summary type="html">&lt;p&gt;难受,昨天晚上好长啊,主要是腰酸背痛睡不着,今天起来都很艰难&lt;br&gt;差不多,脑子都是木的&lt;/p&gt;
 </summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记14</title>
-    <link href="http://example.com/posts/d484d45f.html"/>
-    <id>http://example.com/posts/d484d45f.html</id>
-    <published>2022-12-19T16:09:59.000Z</published>
-    <updated>2022-12-19T16:29:38.877Z</updated>
-    
-    <content type="html"><![CDATA[<p>回家了,但又好像没有,还是一个人住.<br>对了,给你介绍一下我的家,我;我妈;我爸和我奶<br>是分开住的,就像出租屋那样的小房子(60来平),<br>就只有吃饭的时候在一起,而且都不怎么高兴,其他时候都不在,<br>我从小到大都没有感觉太深的感情,我不知道该怎样交流,<br>但也挺好.<br>明天找了个班上,试着做一做了(但不是关于实习的)<br>有句老话说背靠大树好乘凉,所以我一定要成为一棵大树<br>接单(但真的很少,算一种过程吧)<br>打游戏(上黄金,该卸载了)<br>每日歌曲:不搭—-李荣浩(刚好这首歌了😊)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;回家了,但又好像没有,还是一个人住.&lt;br&gt;对了,给你介绍一下我的家,我;我妈;我爸和我奶&lt;br&gt;是分开住的,就像出租屋那样的小房子(60来平),&lt;br&gt;就只有吃饭的时候在一起,而且都不怎么高兴,其他时候都不在,&lt;br&gt;我从小到大都没有感觉太深的感情,我不知道该怎样交流,&lt;</summary>
       
     
     
