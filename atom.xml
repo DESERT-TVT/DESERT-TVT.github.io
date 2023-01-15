@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-13T15:31:06.808Z</updated>
+  <updated>2023-01-15T01:25:13.235Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记40</title>
+    <link href="http://example.com/posts/ae9ee403.html"/>
+    <id>http://example.com/posts/ae9ee403.html</id>
+    <published>2023-01-15T01:06:00.000Z</published>
+    <updated>2023-01-15T01:25:13.235Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>日记39</title>
@@ -417,27 +430,6 @@
     <summary type="html">&lt;p&gt;今天终于有一点味觉了!&lt;/p&gt;
 &lt;h2 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h2&gt;&lt;p&gt;js作业5个&lt;br&gt;整理复习&lt;/p&gt;
 &lt;h2 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记20</title>
-    <link href="http://example.com/posts/f8c44385.html"/>
-    <id>http://example.com/posts/f8c44385.html</id>
-    <published>2022-12-25T14:49:49.000Z</published>
-    <updated>2022-12-25T15:08:17.538Z</updated>
-    
-    <content type="html"><![CDATA[<p>除了说不了话没有味觉,差不多没事了(一说就开始咳嗽模式)</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>js效果:<br>1.各种放大镜,轮播图,canve演变,<br>还有介绍一个很棒的效果<br><a href="https://www.weizhang.site/demo-html-css/demo/45/(访问这个网站可以看看,真的好棒😍">https://www.weizhang.site/demo-html-css/demo/45/(访问这个网站可以看看,真的好棒😍</a>)<br>虽然说这些效果很炫但不是太实用(性能问题,交互成本等,一般真正好的网站这些都挺少,但确实<br>可以认识一些不了解的属性,方法)<br>虽然说时间都花费到这些上面确实有点蠢,但好像确实需要一段时间来沉淀一下自己👀<br>差不多了<br>这个博客都写了20天了,成了我的习惯,每天没写都睡不着,难beng.<br>每日歌曲:暧昧三十三天—暴躁的兔子(上头了感觉)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;除了说不了话没有味觉,差不多没事了(一说就开始咳嗽模式)&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;js效果:&lt;br&gt;1.各种放大镜,轮播图,canve演变,&lt;br&gt;还</summary>
       
     
     
