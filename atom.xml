@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-15T05:44:35.865Z</updated>
+  <updated>2023-01-15T16:18:38.467Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记41</title>
+    <link href="http://example.com/posts/d999d495.html"/>
+    <id>http://example.com/posts/d999d495.html</id>
+    <published>2023-01-15T16:00:27.000Z</published>
+    <updated>2023-01-15T16:18:38.467Z</updated>
+    
+    <content type="html"><![CDATA[<p>这几天写的有点像流水账了,那将毫无意义</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>摆烂的一天</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>雅雅妹妹结婚了,吃喜酒.真的过的好快,一眨眼我真的感觉自己<br>好酞了,造就自己的家,还有很大的问题,但改变与机遇也是相互伴随的<br>今天的记录也有点像流水账,确实眼睛很痛(明天合理规划时间,不要浪费<br>在一些不合理的地方上)<br>今天我抢捧花的时候,都扔在我手里了,结果后边那个b直接从我手里抢走了<br>真他妈很气(我之前一直觉得不争不抢就很好,但我现在却越来越觉得<br>为了能守护自己所想,所需的东西,狼性是一种必要的属性,某些东西需要自私一点)<br>心有猛虎,细嗅蔷薇<br>每日歌曲:HUSH—Ari Abdul(朋友圈扒的,挺好听的一首歌)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这几天写的有点像流水账了,那将毫无意义&lt;/p&gt;
+&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;摆烂的一天&lt;/p&gt;
+&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记40</title>
     <link href="http://example.com/posts/ae9ee403.html"/>
     <id>http://example.com/posts/ae9ee403.html</id>
     <published>2023-01-14T01:06:00.000Z</published>
-    <updated>2023-01-15T05:44:35.865Z</updated>
+    <updated>2023-01-15T05:45:19.720Z</updated>
     
     <content type="html"><![CDATA[<p>今天出去玩了</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>英语<br>某了</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>下午出去逛耍<br>吃晚餐<br>晚上玩剧本杀<br>太晚了回家<br>睡着了<br>每日歌曲:啾咪啾咪—-卓文萱<br>(一首可爱的歌,高中的时候挺喜欢听的,有点怀念)</p>]]></content>
     
@@ -417,28 +439,6 @@
     <summary type="html">&lt;p&gt;平常的一天&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;写代码&lt;br&gt;找组件,学文档&lt;/p&gt;
 &lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;heade</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记21</title>
-    <link href="http://example.com/posts/8fc37313.html"/>
-    <id>http://example.com/posts/8fc37313.html</id>
-    <published>2022-12-26T15:33:16.000Z</published>
-    <updated>2022-12-26T15:47:09.492Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天终于有一点味觉了!</p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>js作业5个<br>整理复习</p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>迫不及待吃了一顿火锅,感觉味觉有但不多,咳还是挺厉害的<br>看了一个电影发现没有音乐才有happen ending😥(男的看确实很奇怪😕)<br>酸奶真不错😋<br>睡(又要开始找工作了😊)<br>每日歌曲:最佳损友—-陈奕迅(原版经典且无法超越)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;今天终于有一点味觉了!&lt;/p&gt;
-&lt;h2 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h2&gt;&lt;p&gt;js作业5个&lt;br&gt;整理复习&lt;/p&gt;
-&lt;h2 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=</summary>
       
     
     
