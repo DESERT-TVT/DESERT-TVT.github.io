@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-15T16:18:38.467Z</updated>
+  <updated>2023-01-16T16:36:47.601Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记42</title>
+    <link href="http://example.com/posts/4090852f.html"/>
+    <id>http://example.com/posts/4090852f.html</id>
+    <published>2023-01-16T16:10:55.000Z</published>
+    <updated>2023-01-16T16:36:47.601Z</updated>
+    
+    <content type="html"><![CDATA[<p>游戏&gt;学习(time)</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>英语<br>今天终于把梯子整好了<br>github上找项目出现很多问题(解决)<br>vue项目的回顾(准备)<br>写博客</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>平淡的游戏生活<br>+看一部电影(一部与圣诞节有关的电影,名字搞忘了)<br>我还是准备找个班上(既能搞钱,还能交一些朋友😋)<br>每日歌曲:Big Big World—Michael Cramtu/Bandari(纯音乐:对我有一种自在,惬意的效果)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;游戏&amp;gt;学习(time)&lt;/p&gt;
+&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;英语&lt;br&gt;今天终于把梯子整好了&lt;br&gt;github上找项目出现很多问题(解决)&lt;br&gt;vue项</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记41</title>
     <link href="http://example.com/posts/d999d495.html"/>
     <id>http://example.com/posts/d999d495.html</id>
     <published>2023-01-15T16:00:27.000Z</published>
-    <updated>2023-01-15T16:18:38.467Z</updated>
+    <updated>2023-01-15T16:19:20.429Z</updated>
     
     <content type="html"><![CDATA[<p>这几天写的有点像流水账了,那将毫无意义</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>摆烂的一天</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>雅雅妹妹结婚了,吃喜酒.真的过的好快,一眨眼我真的感觉自己<br>好酞了,造就自己的家,还有很大的问题,但改变与机遇也是相互伴随的<br>今天的记录也有点像流水账,确实眼睛很痛(明天合理规划时间,不要浪费<br>在一些不合理的地方上)<br>今天我抢捧花的时候,都扔在我手里了,结果后边那个b直接从我手里抢走了<br>真他妈很气(我之前一直觉得不争不抢就很好,但我现在却越来越觉得<br>为了能守护自己所想,所需的东西,狼性是一种必要的属性,某些东西需要自私一点)<br>心有猛虎,细嗅蔷薇<br>每日歌曲:HUSH—Ari Abdul(朋友圈扒的,挺好听的一首歌)</p>]]></content>
     
@@ -417,28 +438,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;今天是我的生日&quot;&gt;&lt;a href=&quot;#今天是我的生日&quot; class=&quot;headerlink&quot; title=&quot;今天是我的生日&quot;&gt;&lt;/a&gt;今天是我的生日&lt;/h1&gt;&lt;p&gt;这次生日是很久以来,和家人一起过的,一家人一起吃的🐟拜拜&lt;br&gt;生日蛋糕齁甜,我的愿望是我一定要成</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记22</title>
-    <link href="http://example.com/posts/16ca22a9.html"/>
-    <id>http://example.com/posts/16ca22a9.html</id>
-    <published>2022-12-27T15:28:57.000Z</published>
-    <updated>2022-12-27T15:35:02.260Z</updated>
-    
-    <content type="html"><![CDATA[<p>平常的一天</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>写代码<br>找组件,学文档</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>平淡平淡<br>工作还没找到,说话就咳嗽不太好找😥<br>没有什么特别的事情,平凡的一天吧<br>每日歌曲:平凡的一天—-毛不易(写照吧)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;平常的一天&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;写代码&lt;br&gt;找组件,学文档&lt;/p&gt;
-&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;heade</summary>
       
     
     
