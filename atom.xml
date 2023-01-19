@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-17T16:07:14.523Z</updated>
+  <updated>2023-01-19T14:47:48.356Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记45</title>
+    <link href="http://example.com/posts/def4108c.html"/>
+    <id>http://example.com/posts/def4108c.html</id>
+    <published>2023-01-19T14:24:02.000Z</published>
+    <updated>2023-01-19T14:47:48.356Z</updated>
+    
+    <content type="html"><![CDATA[<p>try my hand at(doing)</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>微信小程序(2)<br>积累日常</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>昨天空了一天(找工作,等)<br>又看了一遍华尔街之狼,有一些新的变化<br>请你原谅我最近没什么想说的,沟通是重要的,<br>积累一些有意思的是必要的<br>每日歌曲:☽ —- 美梦领取屋(纯音乐)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;try my hand at(doing)&lt;/p&gt;
+&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;微信小程序(2)&lt;br&gt;积累日常&lt;/p&gt;
+&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记43</title>
     <link href="http://example.com/posts/3797b5b9.html"/>
     <id>http://example.com/posts/3797b5b9.html</id>
     <published>2023-01-17T16:02:41.000Z</published>
-    <updated>2023-01-17T16:07:14.523Z</updated>
+    <updated>2023-01-17T16:07:35.844Z</updated>
     
     <content type="html"><![CDATA[<p>wow</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>原生微信小程序学习<br>英语</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>没什么生活,这几天眼睛有点痛,作息有点不规范<br>打扫了一下屋子<br>差不多这样<br>每日歌曲:人生浪费指南 —夏日入侵计划(慵懒的我)</p>]]></content>
     
@@ -419,27 +441,6 @@
     <summary type="html">&lt;p&gt;hello 你好&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;接单&lt;br&gt;写后台(stop)&lt;br&gt;查文档&lt;br&gt;写博客&lt;/p&gt;
 &lt;h1 id=&quot;生活&quot;&gt;&lt;a href=</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记24</title>
-    <link href="http://example.com/posts/ffa9879c.html"/>
-    <id>http://example.com/posts/ffa9879c.html</id>
-    <published>2022-12-29T14:36:26.000Z</published>
-    <updated>2022-12-29T14:51:26.968Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>看面经,准备面试<br>接单<br>写博客<br>写后台管理程序vue(2)</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>压力有点大,路漫漫兮<br>奥里给给<br>打破桎梏,破茧成蝶,我的中二之魂燃烧吧😡<br>哈哈哈哈<br>说实话真的很害怕,但好像也就这样做吧<br>真所谓背靠大树好乘凉.所以我一定要成为一棵大树,<br>人就能靠在我身上了😁<br>每日歌曲:燃—-张杰等(很燃的歌,滚烫的心🤗)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;看面经,准备面试&lt;br&gt;接单&lt;br&gt;写博客&lt;br&gt;写后台管理程序vue(2)&lt;/p&gt;
-&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; c</summary>
       
     
     
