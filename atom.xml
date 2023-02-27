@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-30T16:55:50.550Z</updated>
+  <updated>2023-02-27T15:12:31.338Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记52</title>
+    <link href="http://example.com/posts/598bb46e.html"/>
+    <id>http://example.com/posts/598bb46e.html</id>
+    <published>2023-02-27T15:01:57.000Z</published>
+    <updated>2023-02-27T15:12:31.338Z</updated>
+    
+    <content type="html"><![CDATA[<p>重启<br>发现一天不打游戏能做很多东东<br>开启学习计划<br>学的好像没啥好跟你分享的<br>但感悟还是有很多,学的有些时候有一种很不切实际的感觉,<br>会踌躇迷茫,不知这个还有一种将来被ai替代的无力感,<br>但好像这种不确定感也是人生真正有意义的一部分.<br>我在想这一切会不会也是一场游戏,一个praty,一个自找<br>乐趣的游戏.<br>今天开了一个桌游(烽火),感觉挺有意思,就是有点废脑子,思考,计算<br>睡觉了,晚安<br>每日歌曲:我记得—赵磊(记性不是很好,记忆终是越来越模糊,<br>感情与感觉剩下的仿佛只有平淡😥😋)不知道是好是坏</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;重启&lt;br&gt;发现一天不打游戏能做很多东东&lt;br&gt;开启学习计划&lt;br&gt;学的好像没啥好跟你分享的&lt;br&gt;但感悟还是有很多,学的有些时候有一种很不切实际的感觉,&lt;br&gt;会踌躇迷茫,不知这个还有一种将来被ai替代的无力感,&lt;br&gt;但好像这种不确定感也是人生真正有意义的一部分.&lt;br</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记51</title>
     <link href="http://example.com/posts/c082e5d4.html"/>
     <id>http://example.com/posts/c082e5d4.html</id>
     <published>2023-01-30T16:42:02.000Z</published>
-    <updated>2023-01-30T16:55:50.550Z</updated>
+    <updated>2023-01-30T16:56:23.581Z</updated>
     
     <content type="html"><![CDATA[<p>你好<br>今天也没有学习,在上班<br>明天就会排时间开始学习<br>最近迷上了一个剧:狂飙<br>怎么说呢,剧情真就狂飙,人物的转变也在狂飙<br>你可以试试真的还不错<br>但是我也出现了一个最重要的心里问题:<br>面对选择到达要怎样才合适<br>(我一直没有明确自己最想要的是什么,也没有对于我来说最重要的)<br>可能说的有些奇怪,但好像也不奇怪<br>好吧就这样的,我继续追剧了😊<br>每日歌曲:i do—911(评论:肯定不止我一个人在怀疑 这一辈子 还能不能遇到这样一个人 能让自己无比欣喜say I do)<br>我觉得肯定会的😊但我能和你走到一起吗,到最后😁</p>]]></content>
     
@@ -416,27 +436,6 @@
     <summary type="html">&lt;p&gt;好快啊,时间&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;工作&lt;br&gt;写单&lt;br&gt;zion(尝试组件)&lt;/p&gt;
 &lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记29</title>
-    <link href="http://example.com/posts/8118fb21.html"/>
-    <id>http://example.com/posts/8118fb21.html</id>
-    <published>2023-01-03T15:14:59.000Z</published>
-    <updated>2023-01-03T15:25:24.914Z</updated>
-    
-    <content type="html"><![CDATA[<p>充实的一天🙃</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>蛋糕店上班第一天,感觉还是挺累的,脚麻了,但做出来的东西,<br>挺有成就感的😁(手生做的很丑😥)尝试新东西挺好❤<br>接单(之前有点懵,明确了一些问题)<br>学zion<br>vue(停)</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>第一天上班没聊什么天,有点拘谨(慢热型)过几天放飞自我🙃<br>还是有点小咳嗽,难受身体很重要啊(革命的本钱🐱‍👤)<br>好困啊,要睡了,yysy差不多了,明天还要早起<br>每日歌曲:Shape Of My Heart—Sting(电影没看完,但歌是真不错👍)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;充实的一天🙃&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;蛋糕店上班第一天,感觉还是挺累的,脚麻了,但做出来的东西,&lt;br&gt;挺有成就感的😁(手生做的很丑😥)尝试新东</summary>
       
     
     
