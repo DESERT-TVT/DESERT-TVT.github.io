@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-27T15:12:31.338Z</updated>
+  <updated>2023-02-28T15:17:22.081Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记53</title>
+    <link href="http://example.com/posts/2e8c84f8.html"/>
+    <id>http://example.com/posts/2e8c84f8.html</id>
+    <published>2023-02-28T15:01:11.000Z</published>
+    <updated>2023-02-28T15:17:22.081Z</updated>
+    
+    <content type="html"><![CDATA[<p>二月最后一天好快<br>首先我头发好瓜啊,容貌焦虑哇(过年涨,160了(⊙﹏⊙))<br>今天虽然是满课,但那些课真的好水啊<br>太基础了,受不了还慢<br>我想知道总体的全部<br>每天的信息接收要控制一下,不然感觉总是过过空,啥也不知道了<br>既然我有些无法掌握,就钻心莫一部分,会更好一点吧<br>每次我重新回过头来看我说的话的时候,我也总会感觉有些云里雾里<br>,搞不懂他的脑回路怎么长得,你也是这样想的吧s😱<br>溜溜球~~<br>每日歌曲:夢をかなえてドラえもん —-mao(我好像一直没有给你说过<br>我最喜欢的哆啦A梦,最羡慕的生活,各种奇妙的冒险,但我最!的是<br>大熊和哆啦A梦的友谊,会给我带来特别的感受,大大的拥抱包含所有的温暖)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;二月最后一天好快&lt;br&gt;首先我头发好瓜啊,容貌焦虑哇(过年涨,160了(⊙﹏⊙))&lt;br&gt;今天虽然是满课,但那些课真的好水啊&lt;br&gt;太基础了,受不了还慢&lt;br&gt;我想知道总体的全部&lt;br&gt;每天的信息接收要控制一下,不然感觉总是过过空,啥也不知道了&lt;br&gt;既然我有些无法掌握,就</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记52</title>
     <link href="http://example.com/posts/598bb46e.html"/>
     <id>http://example.com/posts/598bb46e.html</id>
     <published>2023-02-27T15:01:57.000Z</published>
-    <updated>2023-02-27T15:12:31.338Z</updated>
+    <updated>2023-02-27T15:13:01.422Z</updated>
     
     <content type="html"><![CDATA[<p>重启<br>发现一天不打游戏能做很多东东<br>开启学习计划<br>学的好像没啥好跟你分享的<br>但感悟还是有很多,学的有些时候有一种很不切实际的感觉,<br>会踌躇迷茫,不知这个还有一种将来被ai替代的无力感,<br>但好像这种不确定感也是人生真正有意义的一部分.<br>我在想这一切会不会也是一场游戏,一个praty,一个自找<br>乐趣的游戏.<br>今天开了一个桌游(烽火),感觉挺有意思,就是有点废脑子,思考,计算<br>睡觉了,晚安<br>每日歌曲:我记得—赵磊(记性不是很好,记忆终是越来越模糊,<br>感情与感觉剩下的仿佛只有平淡😥😋)不知道是好是坏</p>]]></content>
     
@@ -414,28 +434,6 @@
     <summary type="html">&lt;p&gt;挺好的一天&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;上班&lt;br&gt;写单&lt;br&gt;vue复习&lt;/p&gt;
 &lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;he</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记30</title>
-    <link href="http://example.com/posts/e1df72c4.html"/>
-    <id>http://example.com/posts/e1df72c4.html</id>
-    <published>2023-01-04T13:44:36.000Z</published>
-    <updated>2023-01-04T14:01:16.140Z</updated>
-    
-    <content type="html"><![CDATA[<p>好快啊,时间</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>工作<br>写单<br>zion(尝试组件)</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>计划赶不上于变化<br>真的很困,今天可能会早一点了,明天在说了一些事<br>每日歌曲:Wellerman—Santiano(扬帆起航⛵)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;好快啊,时间&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;工作&lt;br&gt;写单&lt;br&gt;zion(尝试组件)&lt;/p&gt;
-&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; cla</summary>
       
     
     
