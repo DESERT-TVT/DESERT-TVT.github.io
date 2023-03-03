@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-01T16:24:13.825Z</updated>
+  <updated>2023-03-03T15:49:20.678Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记55</title>
+    <link href="http://example.com/posts/c7ef21cd.html"/>
+    <id>http://example.com/posts/c7ef21cd.html</id>
+    <published>2023-03-03T15:26:14.000Z</published>
+    <updated>2023-03-03T15:49:20.678Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天没写真的抱歉&lt;(＿　＿)&gt;(昨天太晚了睡着了,主要是懒)<br>今天开始学Java了(后台管理系统找到教程基本上都是用spring boot搭建的,没找到node.js)<br>因为要学spring boot 所以要有spring基础,因为要学spring所以要有<br>《Java核心技术》<br>Java反射原理<br>Servlet。基础<br>很烦(开始后端之旅了q)q😝<br>单不影响我看ig比赛,YSKM真的好帅(不狂不少年)<br>晚上去社团玩血染,不快乐(我喜欢高端局🙃)<br>想找一个周末桌游固车,晚一些废脑子的快乐<br>你!!!😡😡😡😡😡😡😡😡😡😡😡<br>我!!!🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷<br>每日歌曲:橙色の時 —-吉森信(为什么是纯音乐,因为我也不知道选什么歌❤)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;昨天没写真的抱歉&amp;lt;(＿　＿)&amp;gt;(昨天太晚了睡着了,主要是懒)&lt;br&gt;今天开始学Java了(后台管理系统找到教程基本上都是用spring boot搭建的,没找到node.js)&lt;br&gt;因为要学spring boot 所以要有spring基础,因为要学spring所</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记54</title>
     <link href="http://example.com/posts/b0e8115b.html"/>
     <id>http://example.com/posts/b0e8115b.html</id>
     <published>2023-03-01T16:09:34.000Z</published>
-    <updated>2023-03-01T16:24:13.825Z</updated>
+    <updated>2023-03-01T16:25:41.795Z</updated>
     
     <content type="html"><![CDATA[<p>今天查询chatgpt相关资料,准备每天的介绍<br>整体来说他就是一个模型,不用联网(基于深度学习gtp3.5)<br>不细聊—<br>今天有点小难过不知道为什么;<br>还有就是在b站看了温暖的抱抱(未看完)抱抱<br>挺有意思的<br>老食堂三楼黄焖鸡是我大学最常去的一家,真的很好吃<br>太阳真好,但没出去玩<br>立个小目标,就是将来开个小店当副业(侧耳倾听男主家的老爷爷的生活<br>是我现在理想生活)<br>time over<br>每日歌曲:The Best Day—Piano Tribute Conservatory(纯单)</p>]]></content>
     
@@ -410,28 +430,6 @@
       
     <summary type="html">&lt;p&gt;要学的东西好多啊(时间真的很快)&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;zion组件基本上会用了,在熟悉几天基本上就能上手了&lt;br&gt;就要开始操作数据流了&lt;br&gt;gp</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记32</title>
-    <link href="http://example.com/posts/fd113e8.html"/>
-    <id>http://example.com/posts/fd113e8.html</id>
-    <published>2023-01-06T15:04:01.000Z</published>
-    <updated>2023-01-06T15:15:19.781Z</updated>
-    
-    <content type="html"><![CDATA[<p>有点糟糕</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>像个傻子懵<br>代码学习</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>面包店结束<br>写小程序开始1<br>技术不成熟这个很难受,像个无头苍蝇<br>必须尽快搞定<br><em>计划表必须确定了</em><br>明天加油😤<br>每日歌曲:i like Me Better —Lauv(😜)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;有点糟糕&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;像个傻子懵&lt;br&gt;代码学习&lt;/p&gt;
-&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;headerl</summary>
       
     
     
