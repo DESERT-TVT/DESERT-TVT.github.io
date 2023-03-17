@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-04T16:33:59.962Z</updated>
+  <updated>2023-03-17T15:22:46.452Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记57</title>
+    <link href="http://example.com/posts/29e140e1.html"/>
+    <id>http://example.com/posts/29e140e1.html</id>
+    <published>2023-03-17T15:15:06.000Z</published>
+    <updated>2023-03-17T15:22:46.452Z</updated>
+    
+    <content type="html"><![CDATA[<p>好久不见了,哟<br>要开始写项目了,更进这个了哦<br>没有什么特别想说的话给你,只是告诉你我还在呢<br>死不掉<br>我很想抱着你,因为我空虚寂寞冷🐷<br>每日歌曲:Obstacles —Syd Matters(Through the blizzard,Through the blizzard.)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;好久不见了,哟&lt;br&gt;要开始写项目了,更进这个了哦&lt;br&gt;没有什么特别想说的话给你,只是告诉你我还在呢&lt;br&gt;死不掉&lt;br&gt;我很想抱着你,因为我空虚寂寞冷🐷&lt;br&gt;每日歌曲:Obstacles —Syd Matters(Through the blizzard,Throu</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>日记56</title>
@@ -408,27 +428,6 @@
       
     <summary type="html">&lt;p&gt;今天被开了😱&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;zion 行为流理解,代码块(感觉基本上流程下来都会了)&lt;br&gt;感觉有些逻辑很麻烦,举例跳转链接,横向逻辑&lt;b</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记34</title>
-    <link href="http://example.com/posts/e6b2b6dd.html"/>
-    <id>http://example.com/posts/e6b2b6dd.html</id>
-    <published>2023-01-08T15:37:34.000Z</published>
-    <updated>2023-01-08T15:55:05.151Z</updated>
-    
-    <content type="html"><![CDATA[<p>新的一天</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>zion基本上能用了<br>js复习(方法太多了,有些很模糊)<br>gql(明天开始,这个要边学边写博客)</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>上这个班,基本上没有生活了感觉<br>就是写代码,这段时间就当加深学习吧<br>这样❤<br>全面发展,最重要吧<br>每日歌曲:桃乐茜的来信—i’ll call you.(好久没有更新歌单了,明天加一歌task)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;新的一天&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;zion基本上能用了&lt;br&gt;js复习(方法太多了,有些很模糊)&lt;br&gt;gql(明天开始,这个要边学边写博客)&lt;/p&gt;</summary>
       
     
     
