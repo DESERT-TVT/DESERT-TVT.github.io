@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-03T05:20:44.232Z</updated>
+  <updated>2023-04-03T15:28:58.055Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>日记59</title>
+    <link href="http://example.com/posts/ce596de6.html"/>
+    <id>http://example.com/posts/ce596de6.html</id>
+    <published>2023-04-03T15:19:25.000Z</published>
+    <updated>2023-04-03T15:28:58.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天感觉非常的通畅😋(也可指肠胃😥)<br>主要是今天学java发现很多新大陆(了解具体环境配置和作用),很多关于校园生活的👍<br>学校邮箱可以申请免费软件使用(可白嫖😋)<br>java学习资源包学习起来很轻松,更之前的语言类似(为什么好像又重新学了,你可能有疑问?因为前几周断更的时候基本上都在玩<br>,不是基本上吧,就是在玩)<br>周五准备去爬青城山,跟室友一起出去,好像有10多个人🐷(应该挺有趣的吧😊)<br>每日歌曲:我可以抱你吗 孟根花完整版—Gen(歌手很有实力，采用鄂尔多斯民歌唱法。另一种风情，希望大家都不要拘泥于形式。<br>根本停不下来,外面下着雨~~~😱)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天感觉非常的通畅😋(也可指肠胃😥)&lt;br&gt;主要是今天学java发现很多新大陆(了解具体环境配置和作用),很多关于校园生活的👍&lt;br&gt;学校邮箱可以申请免费软件使用(可白嫖😋)&lt;br&gt;java学习资源包学习起来很轻松,更之前的语言类似(为什么好像又重新学了,你可能有疑</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记58</title>
     <link href="http://example.com/posts/b95e5d70.html"/>
     <id>http://example.com/posts/b95e5d70.html</id>
     <published>2023-04-03T04:46:27.000Z</published>
-    <updated>2023-04-03T05:20:44.232Z</updated>
+    <updated>2023-04-03T05:22:15.306Z</updated>
     
+    <content type="html"><![CDATA[<p>嗨 没脸再找你有点<br>但好像脸皮挺厚的又来了😥<br>真开始了,不再只是说说,<br>承诺啥的不管怎样都必须做到的阿<br>每日歌曲:如同宿命反复重演的那一天—夏日入侵企画</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;嗨 没脸再找你有点&lt;br&gt;但好像脸皮挺厚的又来了😥&lt;br&gt;真开始了,不再只是说说,&lt;br&gt;承诺啥的不管怎样都必须做到的阿&lt;br&gt;每日歌曲:如同宿命反复重演的那一天—夏日入侵企画&lt;/p&gt;
+</summary>
+      
     
     
     
@@ -398,28 +426,6 @@
       
     <summary type="html">&lt;p&gt;running&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;网站ui和方向构思(确定想做一个关于桌游找人的app,具体功能和Ui还没确定)&lt;br&gt;学习前端相关(咬文嚼字,</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记36</title>
-    <link href="http://example.com/posts/8bcd7f1.html"/>
-    <id>http://example.com/posts/8bcd7f1.html</id>
-    <published>2023-01-10T16:41:05.000Z</published>
-    <updated>2023-01-10T16:44:23.689Z</updated>
-    
-    <content type="html"><![CDATA[<p>序列0</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>null</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>null<br>每日歌曲:Null—null(null)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;序列0&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;null&lt;/p&gt;
-&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;headerlink&quot; title</summary>
       
     
     
