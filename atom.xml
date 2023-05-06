@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-05T01:20:59.680Z</updated>
+  <updated>2023-05-06T02:26:12.111Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记66</title>
+    <link href="http://example.com/posts/75cb23b4.html"/>
+    <id>http://example.com/posts/75cb23b4.html</id>
+    <published>2023-05-06T02:13:32.000Z</published>
+    <updated>2023-05-06T02:26:12.111Z</updated>
+    
+    <content type="html"><![CDATA[<p>继续java的一天(9-6)<br>天赐的声音(亲爱的_那不是爱情)很好听阿<br>今天会很忙吧<br>When you only have one life,that’s what makes it special.<br>每日歌曲:Italo Disco —Last Dinosaurs(听着旋律就感觉是一首很浪漫的歌)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;继续java的一天(9-6)&lt;br&gt;天赐的声音(亲爱的_那不是爱情)很好听阿&lt;br&gt;今天会很忙吧&lt;br&gt;When you only have one life,that’s what makes it special.&lt;br&gt;每日歌曲:Italo Disco —Last D</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>日记65</title>
@@ -395,28 +415,6 @@
     <summary type="html">&lt;p&gt;try my hand at(doing)&lt;/p&gt;
 &lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;微信小程序(2)&lt;br&gt;积累日常&lt;/p&gt;
 &lt;h1 id=&quot;生活&quot;&gt;&lt;a href=</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记43</title>
-    <link href="http://example.com/posts/3797b5b9.html"/>
-    <id>http://example.com/posts/3797b5b9.html</id>
-    <published>2023-01-17T16:02:41.000Z</published>
-    <updated>2023-01-17T16:07:35.844Z</updated>
-    
-    <content type="html"><![CDATA[<p>wow</p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>原生微信小程序学习<br>英语</p><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><p>没什么生活,这几天眼睛有点痛,作息有点不规范<br>打扫了一下屋子<br>差不多这样<br>每日歌曲:人生浪费指南 —夏日入侵计划(慵懒的我)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;wow&lt;/p&gt;
-&lt;h1 id=&quot;学习&quot;&gt;&lt;a href=&quot;#学习&quot; class=&quot;headerlink&quot; title=&quot;学习&quot;&gt;&lt;/a&gt;学习&lt;/h1&gt;&lt;p&gt;原生微信小程序学习&lt;br&gt;英语&lt;/p&gt;
-&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;header</summary>
       
     
     
