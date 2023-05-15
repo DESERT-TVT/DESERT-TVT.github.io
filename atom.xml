@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-15T01:50:47.161Z</updated>
+  <updated>2023-05-15T01:52:05.934Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="http://example.com/posts/85b3b7c0.html"/>
     <id>http://example.com/posts/85b3b7c0.html</id>
     <published>2023-05-15T01:41:18.000Z</published>
-    <updated>2023-05-15T01:50:47.161Z</updated>
+    <updated>2023-05-15T01:52:05.934Z</updated>
     
+    <content type="html"><![CDATA[<p>时间很快,我们很帅<br>做的东西越来越有意思<br>看一个个小demo运行成功<br>感觉真不错,给自己大拇哥(bushi)<br>差不多了<br>每日歌曲:热铁皮房顶的夏天 —-王赫野(我知道自己在做什么)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;时间很快,我们很帅&lt;br&gt;做的东西越来越有意思&lt;br&gt;看一个个小demo运行成功&lt;br&gt;感觉真不错,给自己大拇哥(bushi)&lt;br&gt;差不多了&lt;br&gt;每日歌曲:热铁皮房顶的夏天 —-王赫野(我知道自己在做什么)&lt;/p&gt;
+</summary>
+      
     
     
     
