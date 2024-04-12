@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-15T01:52:05.934Z</updated>
+  <updated>2024-04-12T06:41:03.520Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记71</title>
+    <link href="http://example.com/posts/f2b48756.html"/>
+    <id>http://example.com/posts/f2b48756.html</id>
+    <published>2024-04-12T05:38:42.000Z</published>
+    <updated>2024-04-12T06:41:03.520Z</updated>
+    
+    <content type="html"><![CDATA[<p>新开测试</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;新开测试&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>日记70</title>
@@ -370,26 +391,6 @@
       
       
     <summary type="html">&lt;p&gt;重启&lt;br&gt;发现一天不打游戏能做很多东东&lt;br&gt;开启学习计划&lt;br&gt;学的好像没啥好跟你分享的&lt;br&gt;但感悟还是有很多,学的有些时候有一种很不切实际的感觉,&lt;br&gt;会踌躇迷茫,不知这个还有一种将来被ai替代的无力感,&lt;br&gt;但好像这种不确定感也是人生真正有意义的一部分.&lt;br</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日记51</title>
-    <link href="http://example.com/posts/c082e5d4.html"/>
-    <id>http://example.com/posts/c082e5d4.html</id>
-    <published>2023-01-30T16:42:02.000Z</published>
-    <updated>2023-01-30T16:56:23.581Z</updated>
-    
-    <content type="html"><![CDATA[<p>你好<br>今天也没有学习,在上班<br>明天就会排时间开始学习<br>最近迷上了一个剧:狂飙<br>怎么说呢,剧情真就狂飙,人物的转变也在狂飙<br>你可以试试真的还不错<br>但是我也出现了一个最重要的心里问题:<br>面对选择到达要怎样才合适<br>(我一直没有明确自己最想要的是什么,也没有对于我来说最重要的)<br>可能说的有些奇怪,但好像也不奇怪<br>好吧就这样的,我继续追剧了😊<br>每日歌曲:i do—911(评论:肯定不止我一个人在怀疑 这一辈子 还能不能遇到这样一个人 能让自己无比欣喜say I do)<br>我觉得肯定会的😊但我能和你走到一起吗,到最后😁</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;你好&lt;br&gt;今天也没有学习,在上班&lt;br&gt;明天就会排时间开始学习&lt;br&gt;最近迷上了一个剧:狂飙&lt;br&gt;怎么说呢,剧情真就狂飙,人物的转变也在狂飙&lt;br&gt;你可以试试真的还不错&lt;br&gt;但是我也出现了一个最重要的心里问题:&lt;br&gt;面对选择到达要怎样才合适&lt;br&gt;(我一直没有明确自</summary>
       
     
     
