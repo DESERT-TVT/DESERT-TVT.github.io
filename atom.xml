@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Desert</title>
+  
+  <subtitle>I Really Want Stay At Your House</subtitle>
+  <link href="https://desert-tvt.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://desert-tvt.github.io/"/>
+  <updated>2025-05-15T07:36:58.870Z</updated>
+  <id>https://desert-tvt.github.io/</id>
+  
+  <author>
+    <name>Desert</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记72</title>
+    <link href="https://desert-tvt.github.io/posts/6bbdd6ec.html"/>
+    <id>https://desert-tvt.github.io/posts/6bbdd6ec.html</id>
+    <published>2025-05-15T07:24:36.000Z</published>
+    <updated>2025-05-15T07:36:58.870Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://pic1.zhimg.com/70/v2-148f2762190be75bf4090f8dcdd9e4c7_1440w.image?source=172ae18b&amp;biz_tag=Post" alt="这是图片" title="Magic Gardens"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://pic1.zhimg.com/70/v2-148f2762190be75bf4090f8dcdd9e4c7_1440w.image?source=172ae18b&amp;amp;biz_tag=Post&quot; alt=&quot;这是图片&quot; title=&quot;M</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://desert-tvt.github.io/posts/4a17b156.html"/>
+    <id>https://desert-tvt.github.io/posts/4a17b156.html</id>
+    <published>2025-05-15T06:46:49.263Z</published>
+    <updated>2025-05-15T06:46:49.263Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记71</title>
+    <link href="https://desert-tvt.github.io/posts/f2b48756.html"/>
+    <id>https://desert-tvt.github.io/posts/f2b48756.html</id>
+    <published>2024-04-12T05:38:42.000Z</published>
+    <updated>2025-05-15T06:46:49.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>新开测试</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;新开测试&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记70</title>
+    <link href="https://desert-tvt.github.io/posts/85b3b7c0.html"/>
+    <id>https://desert-tvt.github.io/posts/85b3b7c0.html</id>
+    <published>2023-05-15T01:41:18.000Z</published>
+    <updated>2025-05-15T06:46:49.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>时间很快,我们很帅<br>做的东西越来越有意思<br>看一个个小demo运行成功<br>感觉真不错,给自己大拇哥(bushi)<br>差不多了<br>每日歌曲:热铁皮房顶的夏天 —-王赫野(我知道自己在做什么)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;时间很快,我们很帅&lt;br&gt;做的东西越来越有意思&lt;br&gt;看一个个小demo运行成功&lt;br&gt;感觉真不错,给自己大拇哥(bushi)&lt;br&gt;差不多了&lt;br&gt;每日歌曲:热铁皮房顶的夏天 —-王赫野(我知道自己在做什么)&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记69</title>
+    <link href="https://desert-tvt.github.io/posts/e5743e25.html"/>
+    <id>https://desert-tvt.github.io/posts/e5743e25.html</id>
+    <published>2023-05-09T01:42:10.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>现在都是第二天早上来写前一天的总结咯<br>昨天写了一天代码,感觉学的东西,和要学的东西<br>真的好多阿,要爆炸咯喂(#`O′)<br>现在日记变短了,因为话少了,是我变成熟了嘛?<br>每日歌曲:亲爱的,那不是爱情—汪苏泷 /张碧晨(有一种舒服的赶脚)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;现在都是第二天早上来写前一天的总结咯&lt;br&gt;昨天写了一天代码,感觉学的东西,和要学的东西&lt;br&gt;真的好多阿,要爆炸咯喂(#`O′)&lt;br&gt;现在日记变短了,因为话少了,是我变成熟了嘛?&lt;br&gt;每日歌曲:亲爱的,那不是爱情—汪苏泷 /张碧晨(有一种舒服的赶脚)&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记68</title>
+    <link href="https://desert-tvt.github.io/posts/92730eb3.html"/>
+    <id>https://desert-tvt.github.io/posts/92730eb3.html</id>
+    <published>2023-05-08T02:35:13.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天一切都挺有意思的,但就是没学java<br>雨总是那样使人伤感<br>在我得到我想要的之前,什么都可以抛弃,是这样的吗<br>是这样的吧! !!<br>每日歌曲:Fresh Roses —Juke Ross(“我们在太空漫步，月球上相爱，然后我们摘下氧气头盔，接吻死去。在太阳的光线和宇宙辐射下永恒，你的双眼像猫眼星系和玫瑰星云那样，承载了我所有的梦。”)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天一切都挺有意思的,但就是没学java&lt;br&gt;雨总是那样使人伤感&lt;br&gt;在我得到我想要的之前,什么都可以抛弃,是这样的吗&lt;br&gt;是这样的吧! !!&lt;br&gt;每日歌曲:Fresh Roses —Juke Ross(“我们在太空漫步，月球上相爱，然后我们摘下氧气头盔，接吻死去。</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记67</title>
+    <link href="https://desert-tvt.github.io/posts/2cc1322.html"/>
+    <id>https://desert-tvt.github.io/posts/2cc1322.html</id>
+    <published>2023-05-07T02:36:59.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天出去玩了,制作桌游计划未完成<br>java(9-11)<br>开心但略显计划失败的一天<br>每日歌曲:This Is the Life—Angie Miller(This is the life)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天出去玩了,制作桌游计划未完成&lt;br&gt;java(9-11)&lt;br&gt;开心但略显计划失败的一天&lt;br&gt;每日歌曲:This Is the Life—Angie Miller(This is the life)&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记66</title>
+    <link href="https://desert-tvt.github.io/posts/75cb23b4.html"/>
+    <id>https://desert-tvt.github.io/posts/75cb23b4.html</id>
+    <published>2023-05-06T02:13:32.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>继续java的一天(9-6)<br>天赐的声音(亲爱的_那不是爱情)很好听阿<br>今天会很忙吧<br>When you only have one life,that’s what makes it special.<br>每日歌曲:Italo Disco —Last Dinosaurs(听着旋律就感觉是一首很浪漫的歌)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;继续java的一天(9-6)&lt;br&gt;天赐的声音(亲爱的_那不是爱情)很好听阿&lt;br&gt;今天会很忙吧&lt;br&gt;When you only have one life,that’s what makes it special.&lt;br&gt;每日歌曲:Italo Disco —Last D</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记65</title>
+    <link href="https://desert-tvt.github.io/posts/ecc2720e.html"/>
+    <id>https://desert-tvt.github.io/posts/ecc2720e.html</id>
+    <published>2023-05-05T01:12:02.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>行,我胡汉三又回来了<br>5月,计划的时间到了,回正轨了<br>这段时间应该会有一个我做的小游戏和一款桌游完成(都挺有趣味的u)<br>很快乐,这段时间.<br>吃的太多长胖了,要注意节制了.<br>差不多了<br>每日歌曲:Le Papillon—-Nicolas Errèra(卜卦)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;行,我胡汉三又回来了&lt;br&gt;5月,计划的时间到了,回正轨了&lt;br&gt;这段时间应该会有一个我做的小游戏和一款桌游完成(都挺有趣味的u)&lt;br&gt;很快乐,这段时间.&lt;br&gt;吃的太多长胖了,要注意节制了.&lt;br&gt;差不多了&lt;br&gt;每日歌曲:Le Papillon—-Nicolas Er</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记64</title>
+    <link href="https://desert-tvt.github.io/posts/9bc54298.html"/>
+    <id>https://desert-tvt.github.io/posts/9bc54298.html</id>
+    <published>2023-04-11T15:12:39.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>嘎嘣脆,叭叭叭.心里种下一颗种子滴滴都达拉~~~<br>java开始上难度了,开心,但就是会慢一些\<br>突发奇想看名侦探柯南有点吓人阿.真的<br>开心的是就是很平淡,食堂的反挺好吃的,南瓜粉蒸肉真的很香😋<br>没有特别想表达的一个主题吧,又活了一天<br>收,最后希望你也过得很好吧😀<br>每日歌曲:Ashes—-Stellar(大脑根本停下来😱)<br>有点浮夸了,但希望你开心</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;嘎嘣脆,叭叭叭.心里种下一颗种子滴滴都达拉~~~&lt;br&gt;java开始上难度了,开心,但就是会慢一些\&lt;br&gt;突发奇想看名侦探柯南有点吓人阿.真的&lt;br&gt;开心的是就是很平淡,食堂的反挺好吃的,南瓜粉蒸肉真的很香😋&lt;br&gt;没有特别想表达的一个主题吧,又活了一天&lt;br&gt;收,最后</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记63</title>
+    <link href="https://desert-tvt.github.io/posts/5a1d73b.html"/>
+    <id>https://desert-tvt.github.io/posts/5a1d73b.html</id>
+    <published>2023-04-09T15:49:01.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>嗨,断了两天,太累了,出去玩耽搁了,抱歉（＞人＜；）<br>今天很快,我是刚从床上醒来下来写,脑子有点空,突然想到<br>想说的好像我也不知道了,反正感觉会有很多值得做的事情<br>热爱生活,我好像很习惯一个人,是的呢<br>我也不知道该说什么咯,就这样吧<br>对了今天去玩桌游挺开心的,但是除了很开心没有什么实际的<br>意义有点难受,我想玩的可以在之后讨论更深层次的问题,<br>什么都行吧,看怎么理解了,应该跟正常人的想法不太一样吧<br>习惯仿佛是一种信念,支撑每个人动力吧(我是这样想的,不然人生路上也太艰难了吧,在不易的时候)<br>每个人都应该会考虑很多吧<br>每日歌曲:打上花火—Daoko / 米津玄師 (烟花到底是圆的还是平的)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;嗨,断了两天,太累了,出去玩耽搁了,抱歉（＞人＜；）&lt;br&gt;今天很快,我是刚从床上醒来下来写,脑子有点空,突然想到&lt;br&gt;想说的好像我也不知道了,反正感觉会有很多值得做的事情&lt;br&gt;热爱生活,我好像很习惯一个人,是的呢&lt;br&gt;我也不知道该说什么咯,就这样吧&lt;br&gt;对了今天去</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记62</title>
+    <link href="https://desert-tvt.github.io/posts/72a6e7ad.html"/>
+    <id>https://desert-tvt.github.io/posts/72a6e7ad.html</id>
+    <published>2023-04-06T15:19:08.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天会和你了一个我从来没有和别人说过的一个东西<br>为什么没说,因为很变态,谁便你怎么理解吧,因为这才是我<br>今天一天基本上都花在看一个h漫画上,上瘾了,仿佛<br>因为好像是我(女友的朋友),诱惑和选择,人总会向往自己没有的<br>不怕你笑话,随便吧,说不定我到时候会后悔,把这篇删了<br>就谁也不知道了<br>我这么大了,没有谈过恋爱,没接过吻,做爱,很失败吧.<br>是个胆小鬼呀,根本不敢正常的表达爱意<br>就如我为什么喜欢大雄呢,羡慕阿,可以对一个人<br>说出心里的一切呢,但我<br>害怕别人拒绝,也害怕别人同意<br>什么都害怕呢<br>总是像傻子一样装作不在意呢<br>实际上只有晚上在被子里才会像傻子一样发疯阿<br>因为我是变态,所以我也只喜欢变态阿<br>不然我感受不到丝毫的爱阿<br>希望你这个变态能早些出现阿<br>今天看了一个问题,肉体和灵魂能分开吗?<br>可是我都想要阿😍<br>差不多了,今天就这样了,真的很想早点抱紧你呢<br>每日歌曲:完 —陈奕迅(每日推荐第一首)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天会和你了一个我从来没有和别人说过的一个东西&lt;br&gt;为什么没说,因为很变态,谁便你怎么理解吧,因为这才是我&lt;br&gt;今天一天基本上都花在看一个h漫画上,上瘾了,仿佛&lt;br&gt;因为好像是我(女友的朋友),诱惑和选择,人总会向往自己没有的&lt;br&gt;不怕你笑话,随便吧,说不定我到时候</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记61</title>
+    <link href="https://desert-tvt.github.io/posts/ebafb617.html"/>
+    <id>https://desert-tvt.github.io/posts/ebafb617.html</id>
+    <published>2023-04-05T15:53:29.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>61了好快<br>今天刷课72了,两倍速还是很慢<br>总476.8小时,感觉还是挺漫长的<br>要努力刷了<br>碧蓝之海我觉得真的很不错<br>应该是我最向往的大学生活吧<br>图灵机到了,周天可以玩<br>今天头发炸了,有点像爆炸头<br>头发还没干而且刚喝了咖啡,等下睡<br>东北铁锅炖那家外卖感觉挺不错,<br>量真的很多,而且也很好吃<br>还有就是,你最近怎么样呢?<br>每日歌曲:再见悲哀—-林忆莲(我真的很喜欢粤语歌阿❤)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;61了好快&lt;br&gt;今天刷课72了,两倍速还是很慢&lt;br&gt;总476.8小时,感觉还是挺漫长的&lt;br&gt;要努力刷了&lt;br&gt;碧蓝之海我觉得真的很不错&lt;br&gt;应该是我最向往的大学生活吧&lt;br&gt;图灵机到了,周天可以玩&lt;br&gt;今天头发炸了,有点像爆炸头&lt;br&gt;头发还没干而且刚喝了咖啡,等</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记60</title>
+    <link href="https://desert-tvt.github.io/posts/9ca88681.html"/>
+    <id>https://desert-tvt.github.io/posts/9ca88681.html</id>
+    <published>2023-04-05T04:23:03.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨晚没写耽搁了,今天补.<br>开心的事<br>有个小垃圾玩apxe看不起下三段,打了一局乱斗,还不如我<br>kda:1都没有,小卡拉米🐷<br>上的课开始越来越没有含量了<br>门口的红豆粥确实挺好吃的<br>听课是最好的助眠工具😂<br>idea背景图变化尝试了好多小姐姐❤真的好好看<br>但没办法专心,最后还是星云果冻最适合🤠<br>今天基础应该就过完了<br>每日歌曲:心里种下一颗种子—想你了呗(o(<em>￣▽￣</em>)o)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;昨晚没写耽搁了,今天补.&lt;br&gt;开心的事&lt;br&gt;有个小垃圾玩apxe看不起下三段,打了一局乱斗,还不如我&lt;br&gt;kda:1都没有,小卡拉米🐷&lt;br&gt;上的课开始越来越没有含量了&lt;br&gt;门口的红豆粥确实挺好吃的&lt;br&gt;听课是最好的助眠工具😂&lt;br&gt;idea背景图变化尝试了好</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记59</title>
+    <link href="https://desert-tvt.github.io/posts/ce596de6.html"/>
+    <id>https://desert-tvt.github.io/posts/ce596de6.html</id>
+    <published>2023-04-03T15:19:25.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天感觉非常的通畅😋(也可指肠胃😥)<br>主要是今天学java发现很多新大陆(了解具体环境配置和作用),很多关于校园生活的👍<br>学校邮箱可以申请免费软件使用(可白嫖😋)<br>java学习资源包学习起来很轻松,更之前的语言类似(为什么好像又重新学了,你可能有疑问?因为前几周断更的时候基本上都在玩<br>,不是基本上吧,就是在玩)<br>周六准备去爬青城山,跟室友一起出去,好像有10多个人🐷(应该挺有趣的吧😊)<br>每日歌曲:我可以抱你吗 孟根花完整版—Gen(歌手很有实力，采用鄂尔多斯民歌唱法。另一种风情，希望大家都不要拘泥于形式。<br>根本停不下来,外面下着雨~~~😱)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天感觉非常的通畅😋(也可指肠胃😥)&lt;br&gt;主要是今天学java发现很多新大陆(了解具体环境配置和作用),很多关于校园生活的👍&lt;br&gt;学校邮箱可以申请免费软件使用(可白嫖😋)&lt;br&gt;java学习资源包学习起来很轻松,更之前的语言类似(为什么好像又重新学了,你可能有疑</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记58</title>
+    <link href="https://desert-tvt.github.io/posts/b95e5d70.html"/>
+    <id>https://desert-tvt.github.io/posts/b95e5d70.html</id>
+    <published>2023-04-03T04:46:27.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>嗨 没脸再找你有点<br>但好像脸皮挺厚的又来了😥<br>真开始了,不再只是说说,<br>承诺啥的不管怎样都必须做到的阿<br>每日歌曲:如同宿命反复重演的那一天—夏日入侵企画</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;嗨 没脸再找你有点&lt;br&gt;但好像脸皮挺厚的又来了😥&lt;br&gt;真开始了,不再只是说说,&lt;br&gt;承诺啥的不管怎样都必须做到的阿&lt;br&gt;每日歌曲:如同宿命反复重演的那一天—夏日入侵企画&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记57</title>
+    <link href="https://desert-tvt.github.io/posts/29e140e1.html"/>
+    <id>https://desert-tvt.github.io/posts/29e140e1.html</id>
+    <published>2023-03-17T15:15:06.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>好久不见了,哟<br>要开始写项目了,更进这个了哦<br>没有什么特别想说的话给你,只是告诉你我还在呢<br>死不掉<br>我很想抱着你,因为我空虚寂寞冷🐷<br>每日歌曲:Obstacles —Syd Matters(Through the blizzard,Through the blizzard.)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;好久不见了,哟&lt;br&gt;要开始写项目了,更进这个了哦&lt;br&gt;没有什么特别想说的话给你,只是告诉你我还在呢&lt;br&gt;死不掉&lt;br&gt;我很想抱着你,因为我空虚寂寞冷🐷&lt;br&gt;每日歌曲:Obstacles —Syd Matters(Through the blizzard,Throu</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记56</title>
+    <link href="https://desert-tvt.github.io/posts/5ee67077.html"/>
+    <id>https://desert-tvt.github.io/posts/5ee67077.html</id>
+    <published>2023-03-04T16:13:29.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>星期六,寝室蹲🙃<br>一天可以很快一睁一闭就结束了<br>没钱,出不去,(穷😥)<br>寝室蹲,日常生活<br>今天有趣的故事就是:心情好👍(事顺)<br>差不多了,这几天手腕有点痛,用电脑太久了,锻炼太少,休息咯,拜<br>每日歌曲:ダンスホール—Mrs. GREEN APPLE(一首有趣的歌)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;星期六,寝室蹲🙃&lt;br&gt;一天可以很快一睁一闭就结束了&lt;br&gt;没钱,出不去,(穷😥)&lt;br&gt;寝室蹲,日常生活&lt;br&gt;今天有趣的故事就是:心情好👍(事顺)&lt;br&gt;差不多了,这几天手腕有点痛,用电脑太久了,锻炼太少,休息咯,拜&lt;br&gt;每日歌曲:ダンスホール—Mrs. GRE</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记55</title>
+    <link href="https://desert-tvt.github.io/posts/c7ef21cd.html"/>
+    <id>https://desert-tvt.github.io/posts/c7ef21cd.html</id>
+    <published>2023-03-03T15:26:14.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天没写真的抱歉&lt;(＿　＿)&gt;(昨天太晚了睡着了,主要是懒)<br>今天开始学Java了(后台管理系统找到教程基本上都是用spring boot搭建的,没找到node.js)<br>因为要学spring boot 所以要有spring基础,因为要学spring所以要有<br>《Java核心技术》<br>Java反射原理<br>Servlet。基础<br>很烦(开始后端之旅了q)q😝<br>单不影响我看ig比赛,YSKM真的好帅(不狂不少年)<br>晚上去社团玩血染,不快乐(我喜欢高端局🙃)<br>想找一个周末桌游固车,晚一些废脑子的快乐<br>你!!!😡😡😡😡😡😡😡😡😡😡😡<br>我!!!🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷🐷<br>每日歌曲:橙色の時 —-吉森信(为什么是纯音乐,因为我也不知道选什么歌❤)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;昨天没写真的抱歉&amp;lt;(＿　＿)&amp;gt;(昨天太晚了睡着了,主要是懒)&lt;br&gt;今天开始学Java了(后台管理系统找到教程基本上都是用spring boot搭建的,没找到node.js)&lt;br&gt;因为要学spring boot 所以要有spring基础,因为要学spring所</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日记54</title>
+    <link href="https://desert-tvt.github.io/posts/b0e8115b.html"/>
+    <id>https://desert-tvt.github.io/posts/b0e8115b.html</id>
+    <published>2023-03-01T16:09:34.000Z</published>
+    <updated>2025-05-15T06:46:49.266Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天查询chatgpt相关资料,准备每天的介绍<br>整体来说他就是一个模型,不用联网(基于深度学习gtp3.5)<br>不细聊—<br>今天有点小难过不知道为什么;<br>还有就是在b站看了温暖的抱抱(未看完)抱抱<br>挺有意思的<br>老食堂三楼黄焖鸡是我大学最常去的一家,真的很好吃<br>太阳真好,但没出去玩<br>立个小目标,就是将来开个小店当副业(侧耳倾听男主家的老爷爷的生活<br>是我现在理想生活)<br>time over<br>每日歌曲:The Best Day—Piano Tribute Conservatory(纯单)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天查询chatgpt相关资料,准备每天的介绍&lt;br&gt;整体来说他就是一个模型,不用联网(基于深度学习gtp3.5)&lt;br&gt;不细聊—&lt;br&gt;今天有点小难过不知道为什么;&lt;br&gt;还有就是在b站看了温暖的抱抱(未看完)抱抱&lt;br&gt;挺有意思的&lt;br&gt;老食堂三楼黄焖鸡是我大学最常去的</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
